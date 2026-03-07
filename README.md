@@ -1,0 +1,1 @@
+This project detects whether a news article is fake or real using Machine Learning and Natural Language Processing (NLP). The system analyzes the text of news articles and predicts the authenticity using trained ML models.
